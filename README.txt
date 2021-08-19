@@ -1,3 +1,21 @@
+This is the framework of my personal/ professional site.
+
+Current code is commented out for later use and development.
+
+Website is built on framework from developer listed below. All credit to it's appropriate owners.
+
+Website is deployed on github.io
+
+Changes to be made in the coming months:
+- adding more personal and professional photos (i.e. headshots/ screenshots of web apps)
+- fleshing out contact form for freelance working
+- reworking Index page "about me" and "work experience" pages
+- reference pages
+
+||
+||
+||
+
 Alpha by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
